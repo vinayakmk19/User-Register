@@ -94,6 +94,9 @@ Database: MongoDB
 
 Authentication: JSON Web Token (JWT)
 
+## Deployed
+🔗 https://user-register-k361.onrender.com
+
 ## 📩 Contact
 📧 Vinayak Kamble - vinayakmkgen@gmail.com
 
