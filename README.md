@@ -18,8 +18,8 @@ Follow these steps to set up and run the project.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/videoplaytube.git
-cd videoplaytube
+git clone https://github.com/vinayakmk19/User-Register.git
+cd User-Registe
 ```
 
 ### 2️⃣ Install Dependencies
