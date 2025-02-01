@@ -105,7 +105,7 @@ Authentication: JSON Web Token (JWT)
 ## 📩 Contact
 📧 Vinayak Kamble - vinayakmkgen@gmail.com
 
-🔗 GitHub: [github.com/your-username](https://github.com/vinayakmk19)
+🔗 GitHub: [[https://github.com/vinayakmk19/](https://github.com/vinayakmk19)
 
 
 Made with ❤️ by Vinayak Kamble
