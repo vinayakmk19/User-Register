@@ -98,6 +98,10 @@ Authentication: JSON Web Token (JWT)
 🔗 https://user-register-k361.onrender.com
 
 
+## API Documentatiion:
+🔗 https://documenter.getpostman.com/view/24311457/2sAYX3qNf5
+
+
 ## 📩 Contact
 📧 Vinayak Kamble - vinayakmkgen@gmail.com
 
